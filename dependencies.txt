@@ -1,0 +1,7 @@
+sgp4
+datetime
+numpy
+matplotlib
+PyAstronomy
+scipy
+pillow
